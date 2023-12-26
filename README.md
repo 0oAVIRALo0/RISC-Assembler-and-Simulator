@@ -1,4 +1,4 @@
-#RISC-Assembler-and-Simulator
+RISC-Assembler-and-Simulator
 
 ● This Python-based assembler is designed to accept an assembly code as input and
 generate an executable binary file based on IEEE 754 format, which also plots the
